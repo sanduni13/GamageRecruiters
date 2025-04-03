@@ -3,51 +3,49 @@ import { CheckCircleIcon } from '@heroicons/react/24/solid';
 
 const services = [
   {
-    title: 'Permanent Recruitment',
-    description: 'End-to-end recruitment solutions for permanent positions across all industry sectors.',
-    features: [
-      'Comprehensive candidate screening',
-      'Industry-specific expertise',
-      'Salary benchmarking',
-      'Interview coordination',
-      'Offer management',
-      'Post-placement support'
-    ]
-  },
-  {
-    title: 'Contract Staffing',
-    description: 'Flexible staffing solutions for project-based and temporary requirements.',
-    features: [
-      'Quick turnaround time',
-      'Verified contractor database',
-      'Payroll management',
-      'Contract administration',
-      'Performance monitoring',
-      'Contract extensions'
-    ]
-  },
-  {
-    title: 'Executive Search',
-    description: 'Specialized search for senior management and executive positions.',
-    features: [
-      'Confidential search process',
-      'Market mapping',
-      'Headhunting',
-      'Leadership assessment',
-      'Negotiation support',
-      'Executive onboarding'
-    ]
-  },
-  {
-    title: 'HR Consulting',
-    description: 'Strategic HR solutions to optimize your organizational effectiveness.',
+    title: 'Staffing and Recruiting',
+    description: 'We offer strategic HR solutions to enhance organizational effectiveness and improve workforce management.',
     features: [
       'HR policy development',
-      'Performance management',
+      'Performance management systems  ',
       'Compensation structuring',
-      'Training needs analysis',
-      'Employee engagement',
-      'HR audit'
+      'Employee engagement strategies'
+    ]
+  },
+  {
+    title: 'Salary Benchmarking',
+    description: 'Our salary benchmarking service provides market-based compensation insights to help businesses remain competitive.',
+    features: [
+      'Market-based salary analysis',
+      'Industry-standard compensation reports',
+      'Negotiation support for salary discussions'
+    ]
+  },
+  {
+    title: 'Global Recruitment Services',
+    description: 'We specialize in international staffing solutions, connecting businesses with global talent across industries.',
+    features: [
+      'International staffing solutions',
+      'Talent acquisition across global markets',
+      'Immigration and visa support'
+    ]
+  },
+  {
+    title: 'Background Verification',
+    description: 'Ensure hiring integrity with our thorough background checks, covering professional, educational, and criminal records.',
+    features: [
+      'Pre-employment screening',
+      'Educational and professional verification',
+      'Criminal and credit history checks'
+    ]
+  },
+  {
+    title: 'Training and Development',
+    description: 'Enhance employee skills and leadership capabilities with our customized corporate training programs.',
+    features: [
+      'Corporate training programs',
+      'Leadership development',
+      'Upskilling and reskilling initiatives'
     ]
   }
 ];
